@@ -1,2 +1,5 @@
 Metodo sum
 Metodo substract
+
+Metodo multiplicacion 2
+Metodo division 2
